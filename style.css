@@ -1,0 +1,87 @@
+/* BOTAO VERDE */
+.bt-vd {
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+}
+
+/* BOTAO VERMELHO */
+.bt-vm {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+/* BOTAO AZUL */
+.bt-az {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+/* BOTAO AMARELO */
+.bt-am {
+    color: #000;
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+
+ /* ESTILO PARA OS BOTOES */
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    padding: .325rem .60rem;
+    margin-right: 10px;
+    border-radius: .25rem;
+}
+
+/* ESTILO PARA NAVBAR */
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: .4rem;
+    padding-bottom: .4rem;
+    background-color: rgb(226, 227, 228);
+}
+
+/* ESTILO PARA TITULOS */
+h2 {
+    margin-left: 0.5cm;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+/* ESTILO PARA CAMPOS DO FORMULARIO */
+.form-control {
+    display: block;
+    width: 15%;
+    margin-bottom: 0.2rem;
+    padding: .375rem .75rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #191c1f;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+
+/* ESTILO PARA TITULOS DOS CAMPOS DO FORMULARIO */
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+}
